@@ -3,12 +3,17 @@
 Esecuzione query su DB Browser for SQLite con tabelle importate da CSV.
 
 ## Query 1 - Riconciliazione totale revenue
+source_total_revenue	transformed_total_revenue
+2339.99	                2339.99
 source_total_revenue: [2339.99]  
 transformed_total_revenue: [2339.99]  
 → **MATCH** (differenza 0.00)
 
+
 ## Query 2 - Clienti senza ordini dopo ETL
-[customer_id: 5, name: Marco Blu]
+customer_id	name
+5	Marco Blu
+
 
 ## Query 3 - Ordini duplicati in transformed_orders
 [0 duplicati rilevati]
