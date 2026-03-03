@@ -1,0 +1,3 @@
+- Defect #1: Cliente ID 6 presente in orders ma non in customers (trovato con SQL)
+- Defect #2: Duplicato ordine dopo ETL (corretto manualmente in Power BI)
+- Defect #3: Grafico mostra revenue sbagliata prima della trasformazione

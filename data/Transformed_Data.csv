@@ -1,0 +1,7 @@
+﻿Somma di amount,customer_id,Order_category,Anno,Trimestre,Mese,Giorno,order_id,product
+89.00,3,High Value,2024,Qtr 1,marzo,10,ORD003,Keyboard
+150.50,1,High Value,2024,Qtr 1,febbraio,1,ORD001,Laptop
+150.50,1,High Value,2024,Qtr 1,febbraio,1,ORD004,Laptop   -- duplicato
+299.99,2,High Value,2024,Qtr 1,febbraio,15,ORD002,Mouse
+450.00,6,High Value,2024,Qtr 1,marzo,20,ORD005,Monitor -- cliente inesistente
+1200.00,4,High Value,2024,Qtr 2,aprile,1,ORD006,PC
