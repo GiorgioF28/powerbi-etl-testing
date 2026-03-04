@@ -3,7 +3,10 @@
 Dashboard sales/marketing multi-pagina sviluppata e testata manualmente in Power BI + validazione ETL con SQL e DAX.
 
 ## Cosa ho realizzato
-- Dashboard 3 pagine: Sales Overview, Marketing Campaigns, Data Validation
+Pagine dashboard:
+  - Sales Overview: screenshots/sales_overview.png
+  - Marketing Campaigns: screenshots/marketing_campaigns.png
+  - Data Validation (Revenue Match): screenshots/data_validation.png
 - ETL pipeline testata con riconciliazione revenue (source vs transformed)
 - Validazione end-to-end con misura DAX Revenue Match (✅ MATCH)
 - Documentazione completa di test cases e defects
